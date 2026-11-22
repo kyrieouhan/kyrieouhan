@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | [Brief2Build](https://github.com/kyrieouhan/brief2build) | AI 需求分析与 MVP 规划工作台，支持分析版本、可编辑任务、验收标准和 Markdown 导出。 | Python · FastAPI · PostgreSQL · React · TypeScript · Docker |
 | [表格智理 · Excel 自动整理助手](https://github.com/kyrieouhan/excel-auto-organizer) | Windows 本地工具，用可复用规则批量合并、清洗、汇总和拆分 Excel / CSV，并打包为便携 EXE。 | Python · PySide6 · pandas · openpyxl · PyInstaller |
+| [户口资料批量整理工具](https://github.com/kyrieouhan/hukou-document-tool) | Windows 离线 OCR，按户批量识别扫描 PDF，导出 Excel 和人工复核清单，支持断点恢复。 | Python · OpenCV · RapidOCR · ONNX Runtime · PySide6 |
 
 ## About
 
